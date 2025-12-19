@@ -1,0 +1,5 @@
+data_size,n_features,fit_time_ms,predict_time_ms,memory_bytes,clustering_percent,silhouette_score
+100,10,0,0,3000,0,-1
+500,10,4,0,15000,0,-1
+1000,10,25,3,30000,4.8,0.87268
+5000,10,-13377,223,150000,90.48,0.794621

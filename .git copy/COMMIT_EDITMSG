@@ -1,0 +1,44 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/tasks.json
+#	new file:   CMakeLists.txt
+#	new file:   build/.cmake/api/v1/query/client-vscode/query.json
+#	new file:   build/.cmake/api/v1/reply/cache-v2-480ec8f78ddfdd1d0c02.json
+#	new file:   build/.cmake/api/v1/reply/cmakeFiles-v1-c1dd93a5d98714be512c.json
+#	new file:   build/.cmake/api/v1/reply/codemodel-v2-b9946df37e8ee0ec81a1.json
+#	new file:   build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json
+#	new file:   build/.cmake/api/v1/reply/index-2025-12-19T06-54-52-0666.json
+#	new file:   build/.cmake/api/v1/reply/toolchains-v1-de13eb4a293a7f94668f.json
+#	new file:   build/CMakeCache.txt
+#	new file:   build/CMakeFiles/3.28.3/CMakeCCompiler.cmake
+#	new file:   build/CMakeFiles/3.28.3/CMakeCXXCompiler.cmake
+#	new file:   build/CMakeFiles/3.28.3/CMakeDetermineCompilerABI_C.bin
+#	new file:   build/CMakeFiles/3.28.3/CMakeDetermineCompilerABI_CXX.bin
+#	new file:   build/CMakeFiles/3.28.3/CMakeSystem.cmake
+#	new file:   build/CMakeFiles/3.28.3/CompilerIdC/CMakeCCompilerId.c
+#	new file:   build/CMakeFiles/3.28.3/CompilerIdC/a.out
+#	new file:   build/CMakeFiles/3.28.3/CompilerIdCXX/CMakeCXXCompilerId.cpp
+#	new file:   build/CMakeFiles/3.28.3/CompilerIdCXX/a.out
+#	new file:   build/CMakeFiles/CMakeConfigureLog.yaml
+#	new file:   build/CMakeFiles/CMakeDirectoryInformation.cmake
+#	new file:   build/CMakeFiles/Makefile.cmake
+#	new file:   build/CMakeFiles/Makefile2
+#	new file:   build/CMakeFiles/TargetDirectories.txt
+#	new file:   build/CMakeFiles/cmake.check_cache
+#	new file:   build/CMakeFiles/progress.marks
+#	new file:   build/Makefile
+#	new file:   build/cmake_install.cmake
+#	new file:   build/dz
+#	new file:   performance_results.csv
+#	new file:   rsa_pss
+#	new file:   src/ML.cpp
+#	new file:   src/main.cpp
+#	new file:   src/rsa_pss.cpp
+#

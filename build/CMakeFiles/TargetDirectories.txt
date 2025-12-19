@@ -1,0 +1,2 @@
+/mnt/c/Users/user/dz/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/dz/build/CMakeFiles/rebuild_cache.dir
